@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/Cheung0-bit/Cheung0-bit/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/Cheung0-bit/Cheung0-bit/blob/master/assets/github-contribution-grid-snake.svg)
