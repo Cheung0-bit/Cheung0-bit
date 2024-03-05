@@ -1,5 +1,5 @@
 ### Hi,there😘
 - 💕 Java Player
-- 🔭 Programmer、Procrastinator、obsessive-compulsive disorder patients、Love nature and rural life
+- 🔭 Looking for a job!
 - ✍️ [Blog](https://cheung0-bit.github.io)
 
